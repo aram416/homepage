@@ -1,0 +1,56 @@
+body {
+    /* display: grid; */
+    /* background-color: #4e7a9e; */
+    background-image: url("bgidk.jpg");
+}
+
+ul {
+    list-style-type: none; /* remove bullets */
+    padding: 0;
+    margin: 0;
+}
+
+.links {
+   
+}
+
+#everything {
+    text-align: center;
+    
+}
+
+#title {
+    margin-left: 500px;
+    margin-top: 10px;
+    border: 5px solid white;
+    border-radius: 25px;
+    background: url(r118.png);
+    background-position: center;
+    width: 25%;
+    background-color: rgba(245,245,220,0.75);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+}
+
+#bookmarks {
+    margin-left: 600px;
+    margin-top: 50px; 
+    border: 5px solid white;
+    border-radius: 25px;
+    width: 10%;
+    background-color: rgba(245,245,220,0.75);
+}
+
+img {
+    width: 40px;
+}
+
+#other {
+    margin-left: 500px;
+    margin-top: 50px; 
+    border: 5px solid white;
+    border-radius: 25px;
+    width: 25%;
+    background-color: rgba(245,245,220,0.75);
+}
